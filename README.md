@@ -121,6 +121,14 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 
 
 ##  Output
+<img width="455" height="537" alt="Screenshot 2026-10-29 110152" src="https://github.com/user-attachments/assets/0560fc41-8522-48b0-860e-2d9e0e0ab3fc" />
+<img width="806" height="522" alt="Screenshot 2026-10-29 110220" src="https://github.com/user-attachments/assets/5f55779e-07db-4983-9822-18b5a93f81eb" />
+<img width="762" height="530" alt="Screenshot 2026-10-29 110228" src="https://github.com/user-attachments/assets/3c6d73e2-e7f1-4f56-956d-f70a0f73707d" />
+<img width="521" height="547" alt="Screenshot 2026-10-29 110236" src="https://github.com/user-attachments/assets/cbfedd75-045c-4d1c-a134-afd4db34c16c" />
+<img width="465" height="536" alt="Screenshot 2026-10-29 110243" src="https://github.com/user-attachments/assets/e002c466-b7b5-437d-9e27-f4a7c6760bd7" />
+<img width="767" height="525" alt="Screenshot 2026-10-29 110257" src="https://github.com/user-attachments/assets/7ed4cb17-1e34-4fca-9870-ef37c1220cde" />
+<img width="1397" height="473" alt="Screenshot 2026-10-29 110307" src="https://github.com/user-attachments/assets/1043c00e-2bfa-4744-ad49-d670cc680f05" />
+<img width="1387" height="407" alt="Screenshot 2026-10-29 110317" src="https://github.com/user-attachments/assets/74fb4408-6822-4599-8e20-0f25a1855b87" />
 
 
 
